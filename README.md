@@ -1,2 +1,2 @@
 # Ghibli-Website-Refinement
-My own version for Studio Ghibli's website.
+🌿 A refined, personal take on Studio Ghibli’s website—built with HTML, CSS, and JavaScript. Fully responsive and inspired by the studio’s timeless aesthetic.
